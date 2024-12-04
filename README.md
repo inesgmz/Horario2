@@ -33,4 +33,4 @@ Permite al usuario consultar la clase actual basada en el día y la hora.
 #### Métodos importantes:
 - `onCreate(Bundle?)`: Inicializa la actividad, muestra la fecha y hora actual, y recupera la clase actual desde `SharedPreferences`.
 
-URL: 
+URL: https://github.com/inesgmz/Horario2.git
